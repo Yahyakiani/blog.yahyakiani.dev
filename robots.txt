@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://yahyakiani.github.io/blog.yahyakiani.dev/sitemap.xml
