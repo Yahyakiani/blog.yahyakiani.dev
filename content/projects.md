@@ -1,0 +1,18 @@
+---
+title: "Projects"
+layout: "projects"
+url: "/projects/"
+summary: projects
+---
+
+
+params:
+    homeInfoParams:
+        Title: Hi there wave
+        Content: Can be Info, links, about...
+
+    socialIcons: # optional
+        - name: "<platform>"
+            url: "<link>"
+        - name: "<platform 2>"
+            url: "<link2>"
