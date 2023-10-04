@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/docs/thesis/</loc>
+    <lastmod>2023-09-25T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/tags/dalhousie/</loc>
     <lastmod>2023-09-25T11:30:03+00:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2023-09-25T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/tags/language-development/</loc>
-    <lastmod>2023-09-25T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/docs/thesis/</loc>
     <lastmod>2023-09-25T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/tags/nlp/</loc>
@@ -25,6 +25,18 @@
   </url><url>
     <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/</loc>
     <lastmod>2023-09-25T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/tags/model-editing/</loc>
+    <lastmod>2023-09-23T15:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/tags/natural-language-generation/</loc>
+    <lastmod>2023-09-23T15:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/docs/long_form_editing_paper/</loc>
+    <lastmod>2023-09-23T15:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/tags/research-update/</loc>
+    <lastmod>2023-09-23T15:30:03+00:00</lastmod>
   </url><url>
     <loc>http://yahyakiani.github.io/blog.yahyakiani.dev/archives/</loc>
   </url><url>
