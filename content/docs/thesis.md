@@ -1,9 +1,9 @@
 ---
 title: "Master's Thesis Progress: A Chronological Update"
-date: 2020-09-15T11:30:03+00:00
+date: 2023-09-25T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["Dalhousie"]
+tags: ["Dalhousie", "NLP", "Language Development", "Thesis Update"]
 author: "Yahya Kayani"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -54,6 +54,32 @@ To be determined after discussions with my supervisor Professor Lizbeth Escobedo
 
 ---
 
-**[Next update scheduled for October 2, 2023]**
+## October 2, 2023: Diving Deeper
 
-Feedback and insights are appreciated as I move forward in this research journey.
+### Research Focus
+
+After thorough discussions with my supervisor, Professor Lizbeth Escobedo, I've made a decision. The area I've chosen to delve into is:
+
+**NLP Tools as an Aid for Children with Language Delays**  
+**Research Question**: How can NLP-powered applications be designed to support children in Nova Scotia with identified speech and language delays?
+
+### Literature Review Underway
+
+To gain a comprehensive understanding of this topic, I've started an extensive literature review. This entails reading various scholarly papers and articles that shed light on the intersection of NLP and early childhood language development.
+
+Several key themes and niche subjects in this regard that are emerging:
+
+1. **Impact of NLP in Speech Therapy**: How have NLP tools been utilized in speech therapy sessions and what has been the outcome for children with speech delays?
+2. **Design Principles for Child-Friendly NLP Tools**: What considerations need to be made to ensure NLP tools are both effective and engaging for young children?
+3. **Ethical Implications**: With the use of technology in early childhood, what are the ethical considerations, especially when dealing with vulnerable groups such as children with language delays?
+4. **Regional Nuances**: Since the focus is on children in Nova Scotia, are there any regional-specific speech patterns or challenges that need to be addressed by NLP tools?
+
+### Collaboration on the Horizon
+
+Considering the deep involvement of NLP in this research, there's a possibility of bringing a co-supervisor on board. This would provide additional expertise, particularly in the technical aspects of NLP, ensuring the research is both rigorous and innovative.
+
+---
+
+**[Next update scheduled for October 7-8, 2023]**
+
+Your feedback, insights, and suggestions will be invaluable as I continue this journey. Feel free to share any pertinent articles or experts in the field that might be beneficial for my research.
