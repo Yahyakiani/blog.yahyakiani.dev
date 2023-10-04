@@ -1,7 +1,7 @@
 ---
 title: "Master's Thesis Progress: A Chronological Update"
 date: 2023-09-25T11:30:03+00:00
-# weight: 1
+weight: 100
 # aliases: ["/first"]
 tags: ["Dalhousie", "NLP", "Language Development", "Thesis Update"]
 author: "Yahya Kayani"
