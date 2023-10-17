@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "Embarking on a new research journey to evaluate model editing in the realm of natural language generation."
+description: "Starting on a new research journey to evaluate model editing in natural language generation."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true
 disableShare: false
@@ -36,7 +36,7 @@ editPost:
 
 ### **Research Leadership**
 
-This research endeavor is spearheaded by [Domenic Rosati](https://github.com/domenicrosati). Domenic is pivotal in bringing this project to fruition and bringing the team up to speed. Collaborating closely with him on this initiative are Yahya(Me), Melis, and Deepika.
+This research is spearheaded by [Domenic Rosati](https://github.com/domenicrosati). Domenic is pivotal in bringing this project to completion and bringing the team up to speed. Collaborating closely with him on this initiative are Yahya(Me), Melis, and Deepika.
 
 
 ### **Research Objective**
@@ -62,7 +62,7 @@ Our first task was to design a 10-passage survey aimed at discerning various pro
 
 ### **Resources & Readings**
 
-As we dive into this project, several readings and resources have been identified to lay a strong foundation:
+As we dive into this project, several readings and resources have been suggested by Domenic to lay a basic understanding of the subject matter:
 - Basics: An understanding of neural networks, transformers, tokens, and more.
 - Papers: From understanding the risks posed by language models to evaluating the ripple effects of knowledge editing.
 
