@@ -105,14 +105,6 @@ menu:
       name: Projects
       url: /projects/
       weight: 10
-    - identifier: papers
-      name: Papers
-      url: /papers/
-      weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
