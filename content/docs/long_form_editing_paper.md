@@ -108,3 +108,80 @@ We have identified several papers that can serve as motivation for our work:
 - Yao, Y., et al. (2023). "Editing Large Language Models: Problems, Methods, and Opportunities".
 - Visit the webpage: [Rome Lab](https://rome.baulab.info/)
 - Read Appendix J and Counterfactual AI Writing Study in [Arxiv Paper](https://arxiv.org/pdf/2202.05262.pdf)
+
+
+
+## **October 14, 2023: Week 2 Milestones and Tasks**
+
+### **Last Week Recap**
+
+#### **Questions and Feedback**
+
+- Addressed questions about model editing.
+- Discussed pre-test feedback, including issues with paragraph length and clarity of terminologies used for annotation.
+
+### **This Week's Milestone: Related Works and Survey Deployment**
+
+#### **Goals**
+
+- Delve into related works, focusing on model editing and evaluation of model editing.
+- Deploy the survey designed in Week 1.
+
+#### **Slides**
+
+- Slides for this week will center on the above goals.
+
+### **To-Do for Next Week**
+
+#### **Annotation Project**
+
+- **Reading (All - Optional):**
+  - Papers on annotation best practices and quality management.
+  
+- **Brainstorm by Freeform Annotating:**
+  - Group 1 (Dom)
+  - Group 2 (Deepika)
+  - Group 3 (Yahya)
+  - Group 4 (Melis)
+
+- **Other Tasks:**
+  - Develop a draft of Annotation Guidelines (Dom)
+  - Select a Platform for Annotations (Dom)
+  - Identify a Dataset for Annotation (Dom)
+
+### **Annotation Session and Feedback**
+
+#### **Session Overview**
+
+- All team members participated in an annotation session.
+- We followed the annotation guidelines to label pairs of sentences as consistent, inconsistent, or neutral.
+
+#### **Issues and Feedback**
+
+- The paragraphs for annotation were found to be too long, making the task cumbersome.
+- Some terminologies used in the annotation guidelines were confusing.
+  
+#### **Action Items for Next Annotation Session**
+
+- Shorten the paragraphs to be annotated.
+- Clarify terminologies and guidelines for annotation.
+
+
+### **Annotation Instructions**
+
+#### **Task Description**
+
+In this task, you will read pairs of sentences and label them as consistent, inconsistent, or neutral.
+
+#### **Guidelines**
+
+- **Consistent Sentence Pair**: A pair of sentences that agree with each other.
+  - **Example**: The Eiffel Tower is in Rome. / Rome is home to the world famous Eiffel Tower.
+- **Inconsistent Sentence Pair**: A pair of sentences that contradict each other.
+  - **Example**: The Eiffel Tower is in Rome. / Paris is home to the world famous Eiffel Tower.
+- **Neutral Sentence Pair**: A pair of sentences that is neither consistent nor inconsistent.
+  - **Example**: The Eiffel Tower is in Rome. / Paris is a wonderful city to visit.
+
+#### **Note**
+
+The focus is not on the factual accuracy of the sentences but on their consistency or inconsistency with each other.
