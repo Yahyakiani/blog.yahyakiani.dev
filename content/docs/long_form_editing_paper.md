@@ -185,3 +185,113 @@ In this task, you will read pairs of sentences and label them as consistent, inc
 #### **Note**
 
 The focus is not on the factual accuracy of the sentences but on their consistency or inconsistency with each other.
+
+## **October 21, 2023: Week 3 Milestones and Tasks**
+
+### **Last Week Recap**
+
+- Deployed the survey designed in earlier weeks.
+- Discussed related works.
+- Conducted a pre-study on annotations.
+
+### **This Week's Milestone: Methods for Data Collection and Annotation Guidelines**
+
+#### **Goals**
+
+- Finalize methods for data collection.
+- Update Annotation Guidelines based on feedback and discussions.
+- Pilot the new annotation guidelines.
+
+#### **Slides**
+
+- Slides for this week will encapsulate the above goals.
+
+### **Updated Annotation Guidelines**
+
+#### **Changes**
+
+- **Video Tutorial**: A [video](https://www.loom.com/share/acb1231f2b774e60b8503e87654adfc5?sid=4959f30b-d350-4f2a-85b5-073b7d70f613) was made to explain the new guidelines.
+  
+- **Instructions**: The task now involves reading a passage of text and labeling a claim about that passage.
+  
+- **Classification**: The task has two parts:
+  1. Classifying the passage as supporting, contradicting, or neutral towards the claim.
+  2. Highlighting sentences that support or contradict the claim (if applicable).
+  
+- **Examples**: New examples were provided to illustrate what supporting, contradicting, and neutral passages look like.
+
+### **To-Do for Next Week**
+
+- Show [HyperMatrix Annotation Platform](https://hypermatrix.lighttag.io/label).
+- Send reminders to those who haven't completed the survey.
+- Provide feedback on the annotation proposal.
+- Discuss the analysis plan for the survey.
+
+#### **Round Table and Annotations Discussion**
+
+- A round table discussion will be conducted to discuss the new annotation guidelines and the pilot study.
+
+## **October 28, 2023: Week 4 Milestones and Tasks**
+
+### **Last Week Recap**
+
+- Conducted an annotation pretest.
+- Krippendorff's Alpha was measured to be 0.54.
+
+### **This Week's Milestone: Achieve Higher Agreement**
+
+#### **Goals**
+
+- Aim for higher agreement among annotators.
+- Discuss discrepancies and plan for improvement.
+
+#### **Slides**
+
+- Slides will focus on achieving higher inter-rater reliability and discussing disagreements.
+
+### **Round Table and Disagreement Discussion**
+
+- A round table discussion will be held to openly discuss disagreements among annotations.
+- Annotations will be reviewed on [Light Tag](https://lighttag.io/).
+- Annotation guidelines will be revised and can be found [here](https://docs.google.com/document/d/1Ar1X7FZa5obS_vhL556VY9IJXq3cwoY_MwtBYufj8ww/edit).
+
+### **To-Do for Next Week**
+
+#### **Pretest and Annotation Strategies**
+
+- Conduct another pretest.
+- Based on the pretest results:
+  - If Inter-Rater Reliability (IRR) is less than \( \alpha = 0.7 \), annotations will be split 2 ways.
+  - If IRR is high, annotations will be split 4 ways.
+
+#### **Handling Missing Context**
+
+- Missing context in annotations was identified as a challenge.
+- Two paths for addressing this:
+  1. Provide the whole paragraph along with the sentence to be measured.
+  2. Keep it at sentence pairs with a rule: if you don’t have enough information, label it as neutral.
+
+#### **Other Tasks**
+
+- Open the option for open text feedback.
+- Complete 300 annotations.
+- I (Yahya) will look into resources for training DeBERTa V3 on annotations, starting with [this course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt).
+
+## **Glossary and Context**
+
+### **Inter-Rater Reliability (IRR)**
+
+- **What it is**: Inter-Rater Reliability (IRR) is a metric used to measure the degree of agreement among multiple raters or annotators.
+  
+- **What it's for**: In the context of this project, IRR is important for ensuring that the annotations being made by different team members are consistent and reliable. This helps in the validation of the dataset being created.
+
+### **Krippendorff's Alpha**
+
+- **What it is**: Krippendorff's Alpha is a statistical measure used to determine the reliability of agreement among multiple coders. It is a more general form of the Cronbach's alpha and can be applied to any number of coders providing ordinal, interval, or ratio data.
+
+- **What it's for**: In this project, Krippendorff's Alpha is used as a specific method to quantify IRR. It helps identify how much of the variation in the data can be attributed to the reliability of the annotators.
+
+### **The Need for Higher Agreement**
+
+- **Why it's important**: Achieving higher agreement among annotators is crucial for the validity and reliability of the data being generated. It ensures that the interpretations of the text are consistent, thereby making the conclusions drawn from the data more robust.
+
