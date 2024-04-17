@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "Starting on a new research journey to evaluate model editing in natural language generation."
+description: "Starting on a new research to evaluate model editing in natural language generation."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true
 disableShare: false
@@ -295,3 +295,28 @@ The focus is not on the factual accuracy of the sentences but on their consisten
 
 - **Why it's important**: Achieving higher agreement among annotators is crucial for the validity and reliability of the data being generated. It ensures that the interpretations of the text are consistent, thereby making the conclusions drawn from the data more robust.
 
+
+
+# Overview of the Project's Technical Progress
+
+In the final stages of our annotation accuracy project, significant technical contributions were made to enhance the reliability of our data analysis methods. A pivotal aspect of this project involved the training and fine-tuning of the DeBERTa V3 model, which played a crucial role in improving our understanding of annotator agreement and classification accuracy.
+
+## Deep Dive into DeBERTa Model Training
+
+Utilizing the DeBERTa (Decoding-enhanced BERT with Disentangled Attention) model, I refined our annotation model. The model was trained on a meticulously prepared dataset where class proportions were balanced based on prior analysis:
+
+- Supports: 54.5752%
+- Contradicts: 24.4009%
+- Neutral: 21.0240%
+
+This distribution ensured that our model could effectively learn from a balanced set of examples, reducing bias and improving the generalizability of the model.
+
+## Model Performance and Enhancements
+
+Post-training, the DeBERTa model exhibited a substantial increase in inter-rater reliability, achieving an Inter-Rater Reliability (IRR) score well above our initial benchmarks. This was a significant improvement from earlier models and set a new standard for our project's annotation accuracy.
+
+## Publication and Recognition
+
+The results of this research and model training were submitted to a NAACL 2024 conference. I am pleased to report that our paper was accepted for publication, which marks a significant achievement for the team and underscores the quality and importance of our work.
+
+The published paper can be accessed here: [Long-form evaluation of model editing](https://arxiv.org/abs/2402.09394)
