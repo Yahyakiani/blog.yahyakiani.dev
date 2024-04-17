@@ -113,10 +113,10 @@ menu:
       name: "Experience"
       url: "/experience/"
       weight: 3
-    - identifier: "internships"
-      name: "Internships"
-      url: "/internships/"
-      weight: 4
+    # - identifier: "internships"
+    #   name: "Internships"
+    #   url: "/internships/"
+    #   weight: 4
     - identifier: "projects"
       name: "Projects"
       url: "/projects/"
