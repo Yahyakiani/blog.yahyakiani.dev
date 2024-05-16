@@ -15,6 +15,7 @@ minify:
   minifyOutput: true
 
 params:
+  customCSS: ["css/custom.css"]
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Yahya Kayani's Blog
   description: "A blog where i will share my profile, experience ,projects ,papers and thesis."
@@ -142,6 +143,9 @@ menu:
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
+  goldmark:
+      renderer:
+        unsafe: true
   highlight:
     noClasses: false
     # anchorLineNos: true
