@@ -75,7 +75,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: I am Yahya Kayani.This blog serves as a platform for presenting my thesis work, detailing projects, and highlighting professional experiences. Explore further for comprehensive insights into my academic and professional endeavors.
+    Content: I am Yahya Kayani.This blog serves as a platform for presenting my work, detailing projects, and highlighting professional experiences. Explore further for comprehensive insights into my academic and professional endeavors.
   socialIcons:
     - name: github
       url: "https://github.com/Yahyakiani"

@@ -1,3 +1,32 @@
+/* General Styles */
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Header Styles */
+header {
+    background-color: #1e1e1e;
+    border-bottom: 2px solid #ff4500;
+}
+
+header a {
+    color: #ff4500;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+/* Section Headers */
+h2, h3 {
+    color: #ff4500;
+}
+
+/* Projects Container */
 .projects-container {
     display: flex;
     flex-wrap: wrap;
@@ -6,6 +35,7 @@
     padding: 20px;
 }
 
+/* Project Card Styles */
 .project-card {
     background-color: #1e1e1e;
     border-radius: 8px;
@@ -31,6 +61,7 @@
 .project-card h3 {
     font-size: 1.5em;
     margin: 10px 20px;
+    color: #ff4500;
 }
 
 .project-card p {
@@ -51,6 +82,7 @@
     text-decoration: underline;
 }
 
+/* Tags Styles */
 .tags {
     display: flex;
     justify-content: start;
@@ -63,4 +95,82 @@
     border-radius: 4px;
     padding: 5px 10px;
     font-size: 0.9em;
+}
+
+/* Awards and Certificates */
+.awards-certificates {
+    margin-top: 40px;
+}
+
+.awards-certificates h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.awards-certificates h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.awards-certificates ul {
+    list-style: none;
+    padding: 0;
+}
+
+.awards-certificates li {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.awards-certificates a {
+    color: #1e90ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.awards-certificates a:hover {
+    text-decoration: underline;
+}
+
+/* About Section */
+.about-section {
+    margin-top: 40px;
+}
+
+.about-section h2, .about-section h3 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.about-section p {
+    font-size: 1.2em;
+}
+
+.about-section .education, .about-section .awards-certificates {
+    margin-top: 40px;
+}
+
+.about-section .education h3, .about-section .awards-certificates h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.about-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about-section li {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.about-section a {
+    color: #1e90ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.about-section a:hover {
+    text-decoration: underline;
 }
